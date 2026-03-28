@@ -1,27 +1,60 @@
-# 👋 Hello, I'm Kaique
+![Banner](https://capsule-render.vercel.app/api?type=waving&color=0:1f1c2c,100:928DAB&height=200&section=header&text=Kaique%20Dos%20Santos&fontSize=40&fontColor=ffffff)
+
+<h1 align="center">Hi 👋, I'm Kaique</h1>
+<h3 align="center">QA Automation Engineer | Test Analyst | Future SDET</h3>
+
+---
+
+# 👨‍💻 About Me
 
 My name is **Kaique Dos Santos**, but you can call me **Kaique**.
 
-I'm a **QA Automation Engineer / Test Analyst** with hands-on experience in **test automation, API testing, and mobile testing**.
+I'm a **QA Automation Engineer / Test Analyst** with hands-on experience in:
+
+- Web Test Automation  
+- API Testing  
+- Mobile Automation  
+- Automation Framework Design  
 
 I started learning software testing at an early age and have been building real-world experience through projects involving **web applications, APIs, and mobile platforms**.
 
-Currently I am expanding my skills in **Software Development and Automation Engineering**, focusing on improving testing frameworks and delivering high quality software.
+Currently expanding my knowledge in **Software Development and Automation Engineering**, focusing on improving automation frameworks and delivering high-quality software.
+
+---
+
+# 👀 Profile Views
+
+![](https://komarev.com/ghpvc/?username=KaiqueSnts&color=blue)
 
 ---
 
 # 🚀 Tech Stack
 
-### Programming Languages
-
-![Java](https://img.shields.io/badge/Java-red?style=for-the-badge&logo=openjdk)
-![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript)
-![TypeScript](https://img.shields.io/badge/TypeScript-blue?style=for-the-badge&logo=typescript)
-![CSharp](https://img.shields.io/badge/C%23-purple?style=for-the-badge&logo=csharp)
+<p>
+<img src="https://skillicons.dev/icons?i=js,ts,java,cs,react,nodejs,git,docker,vscode,eclipse" height="40"/>
+</p>
 
 ---
 
-### QA Automation
+# 🧪 Test Automation
+
+<p>
+<img src="https://skillicons.dev/icons?i=selenium,postman" height="40"/>
+</p>
+
+---
+
+# 📱 Mobile Testing
+
+![Android](https://img.shields.io/badge/Android-green?style=for-the-badge&logo=android)
+![iOS](https://img.shields.io/badge/iOS-black?style=for-the-badge&logo=apple)
+![Appium](https://img.shields.io/badge/Appium-purple?style=for-the-badge)
+
+Mobile automation using **Appium** for **Android and iOS applications**.
+
+---
+
+# ⚙️ Automation Tools
 
 ![Selenium](https://img.shields.io/badge/Selenium-green?style=for-the-badge&logo=selenium)
 ![Cypress](https://img.shields.io/badge/Cypress-black?style=for-the-badge&logo=cypress)
@@ -30,16 +63,11 @@ Currently I am expanding my skills in **Software Development and Automation Engi
 
 ---
 
-### API Testing
+# 🔗 API Testing
 
 ![Postman](https://img.shields.io/badge/Postman-orange?style=for-the-badge&logo=postman)
 
----
-
-### Development
-
-![React](https://img.shields.io/badge/React-blue?style=for-the-badge&logo=react)
-![NodeJS](https://img.shields.io/badge/NodeJS-green?style=for-the-badge&logo=node.js)
+Experience testing **REST and SOAP APIs**, validating responses, authentication flows, and service integrations.
 
 ---
 
@@ -70,11 +98,27 @@ Currently I am expanding my skills in **Software Development and Automation Engi
 
 ---
 
+# ⭐ Featured Projects
+
+🚧 Projects coming soon
+
+- Web Automation Framework with Playwright
+- API Testing Automation Project
+- Mobile Automation with Appium
+
+---
+
 # 📊 GitHub Stats
 
 ![Kaique GitHub stats](https://github-readme-stats.vercel.app/api?username=KaiqueSnts&show_icons=true&theme=tokyonight)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=KaiqueSnts&layout=compact&theme=tokyonight)
+
+---
+
+# 📈 Activity Graph
+
+![Kaique Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=KaiqueSnts&theme=tokyo-night)
 
 ---
 
@@ -90,7 +134,8 @@ Currently I am expanding my skills in **Software Development and Automation Engi
 # 🌎 Connect with me
 
 LinkedIn:  
-Email: 
+Email:  
+
 ---
 
 ⭐ Always improving automation frameworks and learning new technologies.
