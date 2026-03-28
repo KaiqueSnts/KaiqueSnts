@@ -1,58 +1,96 @@
-# Olá Pessoal  👋
+# 👋 Hello, I'm Kaique
 
+My name is **Kaique Dos Santos**, but you can call me **Kaique**.
 
-Meu nome é Kaique Dos Santos, mas pode me chamar de Kaique, estou na area como Analista de teste/QA desde 2022 e estou estudando para Desenvolvedor Software Full Stack.
+I'm a **QA Automation Engineer / Test Analyst** with hands-on experience in **test automation, API testing, and mobile testing**.
 
+I started learning software testing at an early age and have been building real-world experience through projects involving **web applications, APIs, and mobile platforms**.
 
-### Hards Skills 🧐
+Currently I am expanding my skills in **Software Development and Automation Engineering**, focusing on improving testing frameworks and delivering high quality software.
 
+---
 
-[![JAVASCRIPT](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)](linkedin)[![TYPESCRIPT](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)](linkedin)[![REACT](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](linkedin)[![NODEJS](https://img.shields.io/badge/Node%20js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)](linkedin)
+# 🚀 Tech Stack
 
-### Hard Skills em automação 🧐:
+### Programming Languages
 
-- Técnicas de teste caixa preta;
-- Elaboração de plano de teste;
-- Arquitetura de casos de testes;
-- Construção de testes Step by Step;
-- Construção de critérios de aceite de teste ( BDD + Gherkin);
-- Ciclo de vida de defeitos;
-- Status report para execução dos testes;
--Metodologia Scrum
+![Java](https://img.shields.io/badge/Java-red?style=for-the-badge&logo=openjdk)
+![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript)
+![TypeScript](https://img.shields.io/badge/TypeScript-blue?style=for-the-badge&logo=typescript)
+![CSharp](https://img.shields.io/badge/C%23-purple?style=for-the-badge&logo=csharp)
 
+---
 
-Automação de Testes;
+### QA Automation
 
--Plataforma Web;
+![Selenium](https://img.shields.io/badge/Selenium-green?style=for-the-badge&logo=selenium)
+![Cypress](https://img.shields.io/badge/Cypress-black?style=for-the-badge&logo=cypress)
+![Playwright](https://img.shields.io/badge/Playwright-darkgreen?style=for-the-badge)
+![Appium](https://img.shields.io/badge/Appium-purple?style=for-the-badge)
 
--Selenium WebDriver + Java;
+---
 
--Testes unitários JUNIT;
+### API Testing
 
--Documento de API Swagger;
+![Postman](https://img.shields.io/badge/Postman-orange?style=for-the-badge&logo=postman)
 
--Aplicações MVC;
+---
 
--WebServices: SOAP;
+### Development
 
--WebServices: REST;
+![React](https://img.shields.io/badge/React-blue?style=for-the-badge&logo=react)
+![NodeJS](https://img.shields.io/badge/NodeJS-green?style=for-the-badge&logo=node.js)
 
--Micro-serviços;
+---
 
--Ferramentas e testes em WebServices SOAP;
+# 🧠 Testing Skills
 
--Ferramentas e testes em WebServices REST;
+- Test Planning
+- Test Case Design
+- Black Box Testing
+- Functional Testing
+- Regression Testing
+- API Testing (REST / SOAP)
+- Microservices Testing
+- Performance Testing
+- Mobile Testing
+- BDD (Gherkin)
+- Scrum / Agile Methodologies
 
--Ferramentas De Testes de API : Postman
+---
 
--Ide de desenvolvimento : Eclipse, Visual Code, Intellij 
+# ⚙️ Tools
 
--Teste automatizados de mobile 
+- IntelliJ
+- Eclipse
+- VS Code
+- Git
+- Jira
+- Swagger
 
--Ferramentas De Teste De Mobile : Appium
+---
 
-Conhecimento em framework Scrum;
+# 📊 GitHub Stats
 
+![Kaique GitHub stats](https://github-readme-stats.vercel.app/api?username=KaiqueSnts&show_icons=true&theme=tokyonight)
 
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=KaiqueSnts&layout=compact&theme=tokyonight)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AnaPaulaDosSantos)](https://github.com/AnaPaulaDosSantos)
+---
+
+# 📚 Current Focus
+
+- Advanced Test Automation
+- Automation Framework Architecture
+- CI/CD Integration
+- Software Development
+
+---
+
+# 🌎 Connect with me
+
+LinkedIn:  
+Email: 
+---
+
+⭐ Always improving automation frameworks and learning new technologies.
