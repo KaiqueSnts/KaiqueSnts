@@ -1,4 +1,11 @@
-![Banner](https://capsule-render.vercel.app/api?type=waving&color=0:1f1c2c,100:928DAB&height=200&section=header&text=Kaique%20Dos%20Santos&fontSize=40&fontColor=ffffff)
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Kaique%20Dos%20Santos&fontSize=35&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=QA%20Automation%20Engineer%20|%20SDET%20in%20progress&descAlignY=55"/>
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?color=00ff88&size=22&center=true&vCenter=true&width=600&lines=QA+Automation+Engineer;SDET+in+progress;Playwright+%7C+API+%7C+Mobile+Testing"/>
+</p>
+
 
 <h1 align="center">Hi 👋, I'm Kaique</h1>
 <h3 align="center">QA Automation Engineer | Test Analyst | Future SDET</h3>
