@@ -3,42 +3,29 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?color=00ff88&size=22&center=true&vCenter=true&width=600&lines=QA+Automation+Engineer;SDET+in+progress;Playwright+%7C+API+%7C+Mobile+Testing"/>
+  <img src="https://readme-typing-svg.herokuapp.com/?color=00ffcc&size=22&center=true&vCenter=true&width=700&lines=QA+Automation+Engineer;Playwright+%7C+API+Testing+%7C+Mobile+Testing;Building+Automation+Frameworks;Focused+on+International+Career"/>
 </p>
 
-
-<h1 align="center">Hi 👋, I'm Kaique</h1>
-<h3 align="center">QA Automation Engineer | Test Analyst | Future SDET</h3>
-
 ---
 
-# 👨‍💻 About Me
+# 👋 About Me
 
-My name is **Kaique Dos Santos**, but you can call me **Kaique**.
+I'm a **QA Automation Engineer** with hands-on experience in:
 
-I'm a **QA Automation Engineer / Test Analyst** with hands-on experience in:
-
-- Web Test Automation  
+- Web Automation  
 - API Testing  
-- Mobile Automation  
-- Automation Framework Design  
+- Mobile Testing  
 
-I started learning software testing at an early age and have been building real-world experience through projects involving **web applications, APIs, and mobile platforms**.
+I have been working with **test automation since an early age**, building real-world projects and helping teams deliver high-quality software.
 
-Currently expanding my knowledge in **Software Development and Automation Engineering**, focusing on improving automation frameworks and delivering high-quality software.
-
----
-
-# 👀 Profile Views
-
-![](https://komarev.com/ghpvc/?username=KaiqueSnts&color=blue)
+Currently focused on becoming a **Software Development Engineer in Test (SDET)** and working in international environments.
 
 ---
 
 # 🚀 Tech Stack
 
 <p>
-<img src="https://skillicons.dev/icons?i=js,ts,java,cs,react,nodejs,git,docker,vscode,eclipse" height="40"/>
+<img src="https://skillicons.dev/icons?i=js,ts,java,cs,react,nodejs,git,docker,vscode,eclipse" height="37"/>
 </p>
 
 ---
@@ -46,8 +33,15 @@ Currently expanding my knowledge in **Software Development and Automation Engine
 # 🧪 Test Automation
 
 <p>
-<img src="https://skillicons.dev/icons?i=selenium,postman" height="40"/>
+<img src="https://skillicons.dev/icons?i=selenium,postman" height="37"/>
 </p>
+
+### Tools & Frameworks
+
+![Playwright](https://img.shields.io/badge/Playwright-darkgreen?style=for-the-badge)
+![Cypress](https://img.shields.io/badge/Cypress-black?style=for-the-badge&logo=cypress)
+![Selenium](https://img.shields.io/badge/Selenium-green?style=for-the-badge&logo=selenium)
+![Appium](https://img.shields.io/badge/Appium-purple?style=for-the-badge)
 
 ---
 
@@ -55,93 +49,64 @@ Currently expanding my knowledge in **Software Development and Automation Engine
 
 ![Android](https://img.shields.io/badge/Android-green?style=for-the-badge&logo=android)
 ![iOS](https://img.shields.io/badge/iOS-black?style=for-the-badge&logo=apple)
-![Appium](https://img.shields.io/badge/Appium-purple?style=for-the-badge)
-
-Mobile automation using **Appium** for **Android and iOS applications**.
 
 ---
 
-# ⚙️ Automation Tools
-
-![Selenium](https://img.shields.io/badge/Selenium-green?style=for-the-badge&logo=selenium)
-![Cypress](https://img.shields.io/badge/Cypress-black?style=for-the-badge&logo=cypress)
-![Playwright](https://img.shields.io/badge/Playwright-darkgreen?style=for-the-badge)
-![Appium](https://img.shields.io/badge/Appium-purple?style=for-the-badge)
-
----
-
-# 🔗 API Testing
+# 🔌 API Testing
 
 ![Postman](https://img.shields.io/badge/Postman-orange?style=for-the-badge&logo=postman)
-
-Experience testing **REST and SOAP APIs**, validating responses, authentication flows, and service integrations.
+![REST](https://img.shields.io/badge/REST-API-blue?style=for-the-badge)
 
 ---
 
 # 🧠 Testing Skills
 
-- Test Planning
-- Test Case Design
-- Black Box Testing
-- Functional Testing
-- Regression Testing
-- API Testing (REST / SOAP)
-- Microservices Testing
-- Performance Testing
-- Mobile Testing
-- BDD (Gherkin)
-- Scrum / Agile Methodologies
+- Test Planning  
+- Test Case Design  
+- Black Box Testing  
+- Functional Testing  
+- Regression Testing  
+- API Testing (REST / SOAP)  
+- Microservices Testing  
+- Performance Testing  
+- Mobile Testing  
+- BDD (Gherkin)  
+- Scrum / Agile  
 
 ---
 
 # ⚙️ Tools
 
-- IntelliJ
-- Eclipse
-- VS Code
-- Git
-- Jira
-- Swagger
-
+- IntelliJ  
+- Eclipse  
+- VS Code  
+- Git  
+- Jira  
+- Swagger  
 ---
 
-# ⭐ Featured Projects
-
-🚧 Projects coming soon
-
-- Web Automation Framework with Playwright
-- API Testing Automation Project
-- Mobile Automation with Appium
-
----
-
-# 📊 GitHub Stats
-
-![Kaique GitHub stats](https://github-readme-stats.vercel.app/api?username=KaiqueSnts&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=KaiqueSnts&layout=compact&theme=tokyonight)
-
----
-
-# 📈 Activity Graph
-
-![Kaique Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=KaiqueSnts&theme=tokyo-night)
-
----
 
 # 📚 Current Focus
 
-- Advanced Test Automation
-- Automation Framework Architecture
-- CI/CD Integration
-- Software Development
+- Advanced Test Automation  
+- Automation Framework Architecture  
+- CI/CD Integration  
+- Playwright & Modern Testing  
 
 ---
 
-# 🌎 Connect with me
+# 🌎 Career Goals
 
-LinkedIn:  
-Email:  
+- Work internationally 🌍  
+- Become a strong SDET  
+- Build scalable automation frameworks  
+
+---
+
+# 📫 Connect with me
+
+- LinkedIn: 
+- Email: kaique.santos.qa@outlook.com
 
 ---
 
