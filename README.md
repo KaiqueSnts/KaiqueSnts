@@ -10,104 +10,46 @@
 
 # 👋 About Me
 
-I'm a **QA Automation Engineer** with hands-on experience in:
+QA Automation Engineer with hands-on experience in **web, API and mobile testing**. I build automation frameworks and CI pipelines that give teams fast, reliable feedback.
 
-- Web Automation  
-- API Testing  
-- Mobile Testing  
+I'm focused on growing into a **Software Development Engineer in Test (SDET)** and working in international teams.
 
-I have been working with **test automation since an early age**, building real-world projects and helping teams deliver high-quality software.
+---
 
-Currently focused on becoming a **Software Development Engineer in Test (SDET)** and working in international environments.
+# ⭐ Featured Project
+
+### [QA Automation Portfolio — Playwright & TypeScript](https://github.com/KaiqueSnts/qa-portfolio)
+
+![Tests](https://github.com/KaiqueSnts/qa-portfolio/actions/workflows/tests.yml/badge.svg?branch=main)
+
+- 26 automated tests across **web, API and E2E** (Page Object Model, API client layer, reusable auth session)
+- **GitHub Actions** pipeline: smoke tests on pull requests, full regression nightly
+- Test report with **video and trace** published on GitHub Pages: [view report](https://kaiquesnts.github.io/qa-portfolio/)
 
 ---
 
 # 🚀 Tech Stack
 
 <p>
-<img src="https://skillicons.dev/icons?i=js,ts,java,cs,react,nodejs,git,docker,vscode,eclipse" height="37"/>
+<img src="https://skillicons.dev/icons?i=ts,js,java,cs,nodejs,git,vscode,idea" height="37"/>
 </p>
 
----
-
-# 🧪 Test Automation
-
-<p>
-<img src="https://skillicons.dev/icons?i=selenium,postman" height="37"/>
-</p>
-
-### Tools & Frameworks
-
-![Playwright](https://img.shields.io/badge/Playwright-darkgreen?style=for-the-badge)
-![Cypress](https://img.shields.io/badge/Cypress-black?style=for-the-badge&logo=cypress)
-![Selenium](https://img.shields.io/badge/Selenium-green?style=for-the-badge&logo=selenium)
-![Appium](https://img.shields.io/badge/Appium-purple?style=for-the-badge)
+**Automation:** Playwright · Cypress · Selenium WebDriver · Appium · JUnit
+**API:** Postman · Swagger · REST · SOAP
+**Performance:** JMeter
+**Process:** Scrum · BDD (Gherkin) · Jira · Azure DevOps · CI/CD
 
 ---
 
-# 📱 Mobile Testing
+# 🎯 Current Focus
 
-![Android](https://img.shields.io/badge/Android-green?style=for-the-badge&logo=android)
-![iOS](https://img.shields.io/badge/iOS-black?style=for-the-badge&logo=apple)
-
----
-
-# 🔌 API Testing
-
-![Postman](https://img.shields.io/badge/Postman-orange?style=for-the-badge&logo=postman)
-![REST](https://img.shields.io/badge/REST-API-blue?style=for-the-badge)
-
----
-
-# 🧠 Testing Skills
-
-- Test Planning  
-- Test Case Design  
-- Black Box Testing  
-- Functional Testing  
-- Regression Testing  
-- API Testing (REST / SOAP)  
-- Microservices Testing  
-- Performance Testing  
-- Mobile Testing  
-- BDD (Gherkin)  
-- Scrum / Agile  
-
----
-
-# ⚙️ Tools
-
-- IntelliJ  
-- Eclipse  
-- VS Code  
-- Git  
-- Jira  
-- Swagger  
----
-
-
-# 📚 Current Focus
-
-- Advanced Test Automation  
-- Automation Framework Architecture  
-- CI/CD Integration  
-- Playwright & Modern Testing  
-
----
-
-# 🌎 Career Goals
-
-- Work internationally 🌍  
-- Become a strong SDET  
-- Build scalable automation frameworks  
+- Automation framework architecture
+- CI/CD integration and test reporting
+- Modern testing with Playwright
 
 ---
 
 # 📫 Connect with me
 
-- LinkedIn: 
+- LinkedIn: [Kaique Santos](COLE_AQUI_O_LINK_DO_SEU_LINKEDIN)
 - Email: kaique.santos.qa@outlook.com
-
----
-
-⭐ Always improving automation frameworks and learning new technologies.
