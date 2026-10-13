@@ -31,7 +31,7 @@ I'm focused on growing into a **Software Development Engineer in Test (SDET)** a
 # 🚀 Tech Stack
 
 <p>
-<img src="https://skillicons.dev/icons?i=js,ts,java,cs,react,nodejs,git,docker,vscode,idea,eclipse,selenium,postman" height="37"/>
+<img src="https://skillicons.dev/icons?i=js,ts,java,cs,nodejs,git,vscode,idea,eclipse,selenium,postman" height="37"/>
 </p>
 
 **Automation:** Playwright · Cypress · Selenium WebDriver · Appium · JUnit
@@ -39,6 +39,8 @@ I'm focused on growing into a **Software Development Engineer in Test (SDET)** a
 **Performance:** JMeter
 **IDEs:** IntelliJ IDEA · Eclipse · VS Code
 **Process:** Scrum · BDD (Gherkin) · Jira · Azure DevOps · CI/CD
+
+**Also familiar with (full stack course):** React · Docker · Node.js
 
 ---
 
